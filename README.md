@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 1) Explain what software engineering is and discuss its importance in the technology industry. <br>
 
-~ Software engineering refers to designing, developing, testing and maintaining software. It is important as it ensures the final product meets quality standard and user requirements through structured processes.
+Software engineering refers to designing, developing, testing and maintaining software. It is important as it ensures the final product meets quality standard and user requirements through structured processes.
 
 2) Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -30,46 +30,46 @@ Software Engineering Day1 Assignment
 
 3) List and briefly explain the phases of the Software Development Life Cycle.
 
-~ Requirement Analysis
+i) Requirement Analysis
    - Objective: Understand and document what the stakeholders need from the software.
    - Activities: Gather requirements through interviews, surveys, and workshops. Analyze and prioritize these requirements.
    - Deliverables: Software Requirements Specification (SRS) document.
 
-~ Planning:
+2) Planning:
    - Objective: Define the project scope, objectives, and resources needed.
    - Activities: Create a project plan, including timelines, cost estimates, and resource allocation. Identify risks and mitigation strategies.
    - Deliverables: Project Plan, Risk Management Plan.
 
-~ Design:
+3) Design:
    - Objective: Create a blueprint for the software based on the requirements.
    - Activities: Design the system architecture, database structure, and user interfaces. Create detailed design documents.
    - Deliverables: System Design Document (SDD), UI/UX designs, Database schema.
 
-~ Implementation (Coding):
+4) Implementation (Coding):
    - Objective: Translate the design into executable code.
    - Activities: Write code according to the design specifications. Follow coding standards and best practices.
    - Deliverables: Source code, executable modules.
 
-~ Testing:
+5) Testing:
    - Objective: Identify and fix defects in the software.
    - Activities: Conduct various types of testing (unit, integration, system, acceptance) to ensure the software meets the requirements.
    - Deliverables: Test cases, test results, defect reports.
 
-~ Deployment:
+6) Deployment:
    - Objective: Release the software to the end-users.
    - Activities: Deploy the software to the production environment. Conduct final testing and user training.
    - Deliverables: Deployed software, user manuals, training materials.
 
-~ Maintenance:
+7) Maintenance:
    - Objective: Ensure the software continues to function correctly and efficiently after deployment.
    - Activities: Fix bugs, perform updates, and add new features based on user feedback.
    - Deliverables: Updated software, patch releases, documentation updates.
 
 4) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.<br>
 
-~ The Waterfall methodology is a linear and sequential approach, characterized by distinct phases such as requirements, design, implementation, testing, and maintenance. It is rigid, with changes being difficult to implement once a phase is completed, and involves limited customer interaction, primarily at the beginning and end of the project. Extensive documentation is required at each phase, and risks are typically addressed late in the process. Waterfall is suitable for short-term projects with well-defined and stable requirements, such as developing a government compliance system where thorough documentation and adherence to strict regulations are crucial.
+The Waterfall methodology is a linear and sequential approach, characterized by distinct phases such as requirements, design, implementation, testing, and maintenance. It is rigid, with changes being difficult to implement once a phase is completed, and involves limited customer interaction, primarily at the beginning and end of the project. Extensive documentation is required at each phase, and risks are typically addressed late in the process. Waterfall is suitable for short-term projects with well-defined and stable requirements, such as developing a government compliance system where thorough documentation and adherence to strict regulations are crucial.
 
-~ In contrast, the Agile methodology is iterative and incremental, focusing on continuous feedback and adaptation. It is highly flexible, welcoming changes even late in development, and involves continuous customer collaboration. Agile emphasizes minimal documentation and working software, with risks identified and mitigated early and continuously. This approach is ideal for long-term projects with evolving requirements, such as creating a mobile app for a startup where user needs and market conditions may change rapidly.
+In contrast, the Agile methodology is iterative and incremental, focusing on continuous feedback and adaptation. It is highly flexible, welcoming changes even late in development, and involves continuous customer collaboration. Agile emphasizes minimal documentation and working software, with risks identified and mitigated early and continuously. This approach is ideal for long-term projects with evolving requirements, such as creating a mobile app for a startup where user needs and market conditions may change rapidly.
 
 5) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
